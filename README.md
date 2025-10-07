@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning (NLP, Generative AI) and Cloud integration (Azure Data Services)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mukul1804](https://github.com/Mukul1804)
+- 👨‍💻 All of my projects are available at https://github.com/Mukul1804?tab=repositories
 
 - 💬 Ask me about **Python, SQL, Power BI, Data Visualization, and Machine Learning**
 
