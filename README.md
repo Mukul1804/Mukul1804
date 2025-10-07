@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mukul Bhardwaj</h1>
 <h3 align="center">A data-driven professional skilled in Python, SQL, Power BI, and Machine Learning</h3>
 
-- 🌱 I’m currently learning **Advanced Machine Learning (NLP, Generative AI) and Cloud integration (Azure Data Services)**
+- 🌱 I’m currently learning **Advanced Machine Learning (NLP, Generative AI)**
 
 - 👨‍💻 All of my projects are available at https://github.com/Mukul1804?tab=repositories
 
 - 💬 Ask me about **Python, SQL, Power BI, Data Visualization, and Machine Learning**
+<p align="center">
+  <img src="https://media.giphy.com/media/LyV4cw0vDtAgc8xTHQ/giphy.gif" alt="data animation" width="400"/>
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
